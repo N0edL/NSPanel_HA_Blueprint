@@ -589,7 +589,7 @@ blueprint:
             The size of the outdoor temperature font
 
             ***ATTENTION!** Depending on the value shown and the font size, the text may exceed the available space.*
-          default: '4'
+          default: '2'
           selector:
             select:
               multiple: false
