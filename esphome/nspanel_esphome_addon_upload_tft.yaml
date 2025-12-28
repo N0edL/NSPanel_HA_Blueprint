@@ -196,7 +196,7 @@ script:
                 };
 
                 resolved_url = std::string("${nextion_update_base_url}") +
-                              "v${version}/hmi/nspanel_" +
+                              "main/hmi/nspanel_" +
                               FILENAME_PARTS[idx-1] + ".tft";
               } else {
                 resolved_url = "${nextion_update_url}";
