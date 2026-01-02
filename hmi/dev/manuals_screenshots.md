@@ -150,6 +150,52 @@ button06icon.picc=46
 button06bri.picc=46
 ```
 
+
+api=1
+page buttonpage01
+page_label.txt="Title Button Card"
+vis 255,1
+
+button01pic.picc=46
+button01text.picc=46
+button01icon.picc=46
+button01bri.picc=46
+
+button02pic.picc=46
+button02text.picc=46
+button02icon.picc=46
+button02bri.picc=46
+
+button03pic.picc=46
+button03text.picc=46
+button03icon.picc=46
+button03bri.picc=46
+
+button04pic.picc=46
+button04text.picc=46
+button04icon.picc=46
+button04bri.picc=46
+
+button05pic.picc=46
+button05text.picc=46
+button05icon.picc=46
+button05bri.picc=46
+
+button06pic.picc=46
+button06text.picc=46
+button06icon.picc=46
+button06bri.picc=46
+
+button07pic.picc=46
+button07text.picc=46
+button07icon.picc=46
+button07bri.picc=46
+
+button08pic.picc=46
+button08text.picc=46
+button08icon.picc=46
+button08bri.picc=46
+
 ## Entities pages
 
 **EU version:**
